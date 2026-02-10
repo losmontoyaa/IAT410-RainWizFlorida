@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{04ad2c35-5e32-4060-b3b1-5b814bd5ee96}">
+		<property name="name">
+			<value>PlayerIsSquatting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{670b235d-c3d4-406d-9991-98692871ef5e}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e3158b54-b78d-4115-acac-f60c1ca40b58}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e3158b54-b78d-4115-acac-f60c1ca40b58}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Yes</value>
+			<value>No</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
