@@ -12,6 +12,13 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+# Visual Studio config file
+.vsconfig
+
+# Zip files should never live in Assets
+/[Aa]ssets/*.zip
+/[Aa]ssets/*.zip.meta
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
