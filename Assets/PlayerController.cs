@@ -9,7 +9,10 @@ public class PlayerController: MonoBehaviour
     [SerializeField] private float _turnspd = 360;
     [SerializeField] private bool _squatPopped;
 
+
     public bool squatPopped => _squatPopped;
+    public bool canMove = true;  // default true so player can move initially
+
 
     private void Update()
     {
