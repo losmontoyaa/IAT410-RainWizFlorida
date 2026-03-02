@@ -3379,8 +3379,8 @@
     "m_ObjectId": "814108d6e8884ab0a3a801ebe0c1e6b0",
     "m_Title": "Screen UV",
     "m_Position": {
-        "x": -2606.000244140625,
-        "y": 358.9999694824219
+        "x": -2606.0,
+        "y": 359.0
     }
 }
 
@@ -5474,7 +5474,7 @@
     "m_ObjectId": "ea05dfb67bd14b3db8c65dae6744f536",
     "m_Title": "Size Correction",
     "m_Position": {
-        "x": -2076.000244140625,
+        "x": -2076.0,
         "y": 977.0
     }
 }

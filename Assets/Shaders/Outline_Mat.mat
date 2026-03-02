@@ -37,11 +37,23 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Color_Threshold: 0.038
+    - _Fullscreen_AlphaBlendOperation: 0
+    - _Fullscreen_BlendMode: 1
+    - _Fullscreen_ColorBlendOperation: 0
+    - _Fullscreen_DepthWrite: 0
+    - _Fullscreen_DstAlphaBlend: 10
+    - _Fullscreen_DstColorBlend: 10
+    - _Fullscreen_SrcAlphaBlend: 1
+    - _Fullscreen_SrcColorBlend: 5
+    - _Normal_Threshold: 0.84
+    - _OutlineThickness: 1.32
     - _Size: 2.14
-    - _Smoothness: 0.415
-    - _Thickness: 0.004
+    - _Smoothness: 0.26
+    - _Thickness: 0.003
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Outline_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Position: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _position: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
